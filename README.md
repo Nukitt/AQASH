@@ -1,2 +1,2 @@
-# chaii
-chaii - Hindi and Tamil Question Answering system
+# AQASH
+AQASH - A Question Answering System in Hindi
