@@ -1,2 +1,2 @@
 # AQASH
-AQASH - A Question Answering System in Hindi
+AQASH - A Question Answering System for Hindi
